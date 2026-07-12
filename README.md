@@ -1,2 +1,1 @@
-# online-appt-pilot
-Online Appointments - Pilot
+# Online Appointments - Pilot
